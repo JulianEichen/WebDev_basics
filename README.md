@@ -14,6 +14,16 @@ The projects are
 [theOdinProject.com rock-paper-scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)<br>
 [theOdinProject.com revisiting rock-paper-scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
 
+### Task (extract):
+
+- Your game is going to play against the computer, so begin with a function called getComputerChoice that will randomly return either ‘Rock’, ‘Paper’ or ‘Scissors’. We’ll use this function in the game to make the computer’s play. 
+- Write a function that plays a single round of Rock Paper Scissors. The function should take two parameters - the playerSelection and computerSelection - and then return a string that declares the winner of the round like so: "You Lose! Paper beats Rock".
+- In our UI, the player should be able to play the game by clicking on buttons rather than typing their answer in a prompt. 
+- Create three buttons, one for each selection. Add an event listener to the buttons that call your playRound function with the correct playerSelection every time a button is clicked.
+
+### Changes And Added Features:
+- no running score
+
 
 ## 2 Etch-A-Sketch
 ### Access:
@@ -29,9 +39,9 @@ https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 - Set up a “hover” effect so that the grid divs change color when your mouse passes over them, leaving a (pixelated) trail through your grid like a pen would. 
 - Add a button to the top of the screen that will send the user a popup asking for the number of squares per side for the new grid. Once entered, the existing grid should be removed and a new grid should be generated in the same total space as before (e.g. 960px wide) so that you’ve got a new sketch pad.
 
-### Added features:
-- Toggle borders between squares
-- Drop-down menu to chose between colors
+### Changes And Added Features:
+- toggle borders between squares
+- drop-down menu to chose between colors
 
 
 ## 3 Calculator
@@ -51,6 +61,6 @@ https://www.theodinproject.com/lessons/foundations-calculator
 - Users should be able to string together several operations and get the right answer, with each pair of numbers being evaluated at a time. **For example, $12 + 7 - 5 * 3 =$ should yield $42$.**
 - Your calculator should not evaluate more than a single pair of numbers at a time. 
 
-### Added features:
-- Maximum length for numbers are 9 digits (including '.')
-- Floating point numbers
+### Changes And Added Features:
+- maximum length for numbers are 9 digits (including '.')
+- floating point numbers
