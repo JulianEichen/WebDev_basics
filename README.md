@@ -1,22 +1,25 @@
 # java_script_basics
 collection of small JS projects
 
-# RPS
-Access:
+## 1 Rock Paper Scissors
+### Access:
+[RPS Demo](https://julianeichen.github.io/RPS/)
 
-[Demo](https://julianeichen.github.io/RPS/)
-rock paper scissors game in JS
+### Source:
+'Rock Paper Scissors' game project from theOdinProject: <br>
+[theOdinProject.com rock-paper-scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)<br>
+[theOdinProject.com revisiting rock-paper-scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
 
-# et-a-sk
-Access:
 
-[Demo](https://julianeichen.github.io/et-a-sk/)
+## 2 Etch-A-Sketch
+### Access:
+[Etch A Sketch Demo](https://julianeichen.github.io/et-a-sk/)
 
-Etch-A-Sketch project from theOdinProject:
-
+### Source:
+Etch-A-Sketch project from theOdinProject: <br>
 https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 
-Task (extract):
+### Task (extract):
 
 - Create a webpage with a 16x16 grid of square divs. Create the divs using JavaScript. Don’t try making them by hand with copy and pasting in your HTML file!
 - Set up a “hover” effect so that the grid divs change color when your mouse passes over them, leaving a (pixelated) trail through your grid like a pen would. 
@@ -27,16 +30,17 @@ Added features:
 - Drop-down menu to chose between colors
 
 
-# meCalc
-Access:
+## 3 Calculator
+### Access:
 
-[Demo](https://julianeichen.github.io/meCalc/)
+[Calculator Demo](https://julianeichen.github.io/meCalc/)
 
+### Source:
 Calculator project from theOdinProject:
 
 https://www.theodinproject.com/lessons/foundations-calculator
 
-Task (extract):
+### Task (extract):
 
 - Your calculator is going to contain functions for all of the basic math operators[...]. add, subtract, multiply & divide
 - Create a basic HTML calculator with buttons for each digit, each of the above functions and an “Equals” key. 
