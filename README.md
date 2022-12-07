@@ -1,5 +1,9 @@
-# java_script_basics
-collection of small JS projects
+# Web-Dev basics
+A collection of small projects from a [Web-Dev foundations course](https://www.theodinproject.com/paths/foundations/courses/foundations), so basic HTML, CSS and JavaScript are used.
+The projects are 
+- [A 'Rock Paper Scissors' game](#1-rock-paper-scissors)
+- [An 'Etch-A-Sketch' page](#2-etch-a-sketch)
+- [A basic calculator page](#3-calculator)
 
 ## 1 Rock Paper Scissors
 ### Access:
@@ -25,7 +29,7 @@ https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 - Set up a “hover” effect so that the grid divs change color when your mouse passes over them, leaving a (pixelated) trail through your grid like a pen would. 
 - Add a button to the top of the screen that will send the user a popup asking for the number of squares per side for the new grid. Once entered, the existing grid should be removed and a new grid should be generated in the same total space as before (e.g. 960px wide) so that you’ve got a new sketch pad.
 
-Added features:
+### Added features:
 - Toggle borders between squares
 - Drop-down menu to chose between colors
 
@@ -47,6 +51,6 @@ https://www.theodinproject.com/lessons/foundations-calculator
 - Users should be able to string together several operations and get the right answer, with each pair of numbers being evaluated at a time. **For example, $12 + 7 - 5 * 3 =$ should yield $42$.**
 - Your calculator should not evaluate more than a single pair of numbers at a time. 
 
-Added features:
+### Added features:
 - Maximum length for numbers are 9 digits (including '.')
 - Floating point numbers
