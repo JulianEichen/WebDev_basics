@@ -7,7 +7,8 @@ The projects are
 
 ## 1 Rock Paper Scissors
 ### Access:
-[RPS Demo](https://julianeichen.github.io/RPS/)
+[Demo Page](https://julianeichen.github.io/RPS/)<br>
+[Repository](https://github.com/JulianEichen/RPS)
 
 ### Source:
 'Rock Paper Scissors' game project from theOdinProject: <br>
@@ -27,7 +28,8 @@ The projects are
 
 ## 2 Etch-A-Sketch
 ### Access:
-[Etch A Sketch Demo](https://julianeichen.github.io/et-a-sk/)
+[Demo Page](https://julianeichen.github.io/et-a-sk/)<br>
+[Repository](https://github.com/JulianEichen/et-a-sk/)
 
 ### Source:
 Etch-A-Sketch project from theOdinProject: <br>
@@ -47,7 +49,8 @@ https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 ## 3 Calculator
 ### Access:
 
-[Calculator Demo](https://julianeichen.github.io/meCalc/)
+[Demo page](https://julianeichen.github.io/meCalc/)<br>
+[Repository](https://github.com/JulianEichen/meCalc/)
 
 ### Source:
 Calculator project from theOdinProject:
